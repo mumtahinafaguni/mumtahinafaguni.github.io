@@ -4,11 +4,13 @@
 
 Steps :
 
-1. git clone
+1. Clone this repository 
+	example: git clone https://github.com/mumtahinafaguni/mumtahinafaguni.github.io.git
 
 2. edit the source as you wish
 
-3. create new repository with username.github.10
+3. create new repository with <username>.github.io
+	example : someone.github.io
 
 4. Select Initialize this repository with a README
 
@@ -16,6 +18,6 @@ Steps :
 
 6. follow the url in presnt in "GitHub Pages"
 
-7. whalla ...
+7. whalla . Your portfolio is onlne
 
 https://help.github.com/en/github/working-with-github-pages/creating-a-github-pages-site
